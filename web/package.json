@@ -24,7 +24,7 @@
     "markdown-it": "^8.4.2",
     "mobx": "^5.9.0",
     "mobx-react": "^5.4.3",
-    "next": "8.0.1",
+    "next": "11.1.3",
     "next-i18next": "^0.32.0",
     "react": "16.8.2",
     "react-dom": "16.8.2",
